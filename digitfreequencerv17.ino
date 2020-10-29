@@ -6,7 +6,7 @@ digitfreequencer v17 by cellfactorysounds
 released oct 2020 under CC BY-SA 4.0
 
 the digit freequencer is a eurorack gate sequencer with millisecond resolution
-i made it to allow quick manual programming of events outside of the grid - swing, humanisation that sort of thing
+i made it to allow quick manual programming of events outside of the grid - swing, humanisation, that sort of thing
 
 
 PIN IO:
